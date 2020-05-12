@@ -1,0 +1,23 @@
+body {
+    background-color: #999999;
+    font-family: "Comic Sans MS";
+    font-size: 24pt;
+}
+
+#hippo {
+    position:fixed;
+    width: auto;
+    left: 50%;
+    top: 50%;
+    margin: 0px;
+    margin-left: -101px;
+    margin-top: -225px;
+}
+
+#bobby {
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -161px;
+    margin-top: -175px;
+}
