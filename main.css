@@ -4,12 +4,16 @@ body {
     font-size: 24pt;
 }
 
-#bobbyLink {
+#links {
     position:fixed;
     left:100%;
     top:100%;
     width:max-content;
     margin:0px;
-    margin-left: -196px;
+    margin-left: -400px;
     margin-top: -60px;
+}
+
+.link {
+    margin-right: 20px;
 }
