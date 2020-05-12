@@ -21,3 +21,12 @@ body {
     margin-left: -161px;
     margin-top: -175px;
 }
+
+#home {
+    position:fixed;
+    top:100%;
+    left:100%;
+    margin:0px;
+    margin-left:-100px;
+    margin-top:-60px;
+}
